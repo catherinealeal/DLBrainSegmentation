@@ -13,7 +13,7 @@
 
 ## Motivation
 - White matter is challenging to study in humans in vivo and tools are not as widely available for dMRI as in other domains, like functional or structural imaging (FMRI, sMRI). The overall goal of this work is to automate processing pipelines for dMRI images. These pipelines use minimally processed images to segment white matter tracts and generate tract endpoint maps on the cortical surface. The automation process is done via machine learning using convolutional neural networks (CNNs).
-- The first project, discussed in Chapter 1, focuses on entire-brain automated segmentation, meaning the extraction of all white matter tracts and their endpoints via deep learning methods. The second project, discussed in Chapter 2, focuses on the tracking of just auditory pathways via a suite of tools that automatically track and clean these white matter pathways. The goal of this work altogether is to reduce barriers of entry to performing in-vivo investigations into white matter by providing processing tools.
+- The first project focuses on entire-brain automated segmentation, meaning the extraction of all white matter tracts and their endpoints via deep learning methods. The second project focuses on the tracking of just auditory pathways via a suite of tools that automatically track and clean these white matter pathways. The goal of this work altogether is to reduce barriers of entry to performing in-vivo investigations into white matter by providing processing tools.
 - Both of these projects were done during my Summer 2023 Internship at Pestilli Lab. 
 
 # Project 1: White Matter Tract Endpoints
